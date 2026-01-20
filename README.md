@@ -12,7 +12,7 @@
 - 🤖 Currently exploring Artificial Intelligence  
 - 👀 Interested in SWE / AI Engineer / ML roles  
 - 📍 Tempe, AZ | Open to Relocate  
-- 🍥 Anime enthusiast | One Piece fan 👒❤️🏴‍☠️  
+- 🍥 Anime enthusiast  
 
 </td>
 <td width="35%" align="right" valign="middle">
