@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Preethi Kotturu</h1>
+<h1 align="center">Hi 👋, I'm Preethi Kotturu :woman_technologist:</h1>
 
 <img align="right"
      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhrOWc1czJ2NWxqbjFhOXo0OGt1NjVycWhyMjZxeTYwaHN2NDFhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6hGnZ7akzotLPJc1EI/giphy.gif"
