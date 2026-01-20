@@ -8,7 +8,7 @@
 
 ---
 
-- 🎓  MS CS student at Arizona State University
+- 🎓  MS CS @ Arizona State University
 - 💻  Software Engineer with 1.5 years of experience
 - 💼  Former Software Development Engineer @ Broadridge Financial Solutions
 - 🤖  Currently exploring Artificial Intelligence
