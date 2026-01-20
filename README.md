@@ -67,36 +67,7 @@ Software Development Engineer | Cloud & Backend | Exploring AI & ML
 
 ---
 
-## 🧩 Featured Projects
 
-### 🔹 Serverless Video Processing Pipeline
-**AWS Lambda • S3 • ECS Fargate • Python • CNN**
-- Designed an event-driven serverless architecture handling **100+ video datasets**
-- Optimized video analysis to **~300ms per frame** using **ResNet-34**
-
-### 🔹 Elastic Image Recognition Application
-**AWS EC2 • SQS • DynamoDB • PostgreSQL**
-- Engineered an elastic multi-tier architecture handling **1000+ concurrent requests**
-- Maintained **sub-200ms response latency** with custom auto-scaling logic
-
-### 🔹 Drowsiness Detection System
-**Python • OpenCV • Keras**
-- Built a real-time driver alertness detection system using CNNs
-- Classified driver state as **drowsy or alert** to enhance road safety
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
