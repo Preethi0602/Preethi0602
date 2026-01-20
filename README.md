@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Preethi Kotturu</h1>
 
----
+<img align="right"
+     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTliOGkzNG5qenJtb2IzbndhYnJhbHhuMjJiOXF0MzluM2lkaXoyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JlJJU8Rd2QP4qxjNBc/giphy.gif"
+     width="180"
+     style="margin-top:70px; margin-left:30px;" />
 
-<table cellspacing="0" cellpadding="0" border="0">
-<tr>
-<td width="65%" valign="top">
+---
 
 - 🎓 MS CS @ Arizona State University  
 - 💻 Software Engineer with 1.5 years of experience  
@@ -12,21 +13,10 @@
 - 🤖 Currently exploring Artificial Intelligence  
 - 👀 Interested in SWE / AI Engineer / ML roles  
 - 📍 Tempe, AZ | Open to Relocate  
-- 🍥 Anime enthusiast  
-
-</td>
-
-<td width="35%" align="right" valign="middle">
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVrNTk1M3pleGh2cWJoZWo4c3oyZHV2cHh3ODA2cmxxbHR2c3JseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif"
-     width="200"
-     alt="Girl coding animation" />
-
-</td>
-</tr>
-</table>
+- 🍥 Anime enthusiast 
 
 ---
+
 
 
 ## 🛠️ Tech Stack
