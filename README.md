@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Preethi Kotturu</h1>
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVrNTk1M3pleGh2cWJoZWo4c3oyZHV2cHh3ODA2cmxxbHR2c3JseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" width="260" style="margin:0 0 10px 10px;" />
-
-
-
-
+<img align="right" 
+     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVrNTk1M3pleGh2cWJoZWo4c3oyZHV2cHh3ODA2cmxxbHR2c3JseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" 
+     width="200"
+     style="margin:0 0 10px 30px;" />
 
 ---
 
