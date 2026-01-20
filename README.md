@@ -1,19 +1,29 @@
 <h1 align="center">Hi 👋, I'm Preethi Kotturu</h1>
 
-<img align="right"
-     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVrNTk1M3pleGh2cWJoZWo4c3oyZHV2cHh3ODA2cmxxbHR2c3JseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif"
-     width="200"
-     style="margin-top:80px; margin-left:30px; margin-bottom:10px;" />
-
 ---
 
-- 🎓  MS CS @ Arizona State University
-- 💻  Software Engineer with 1.5 years of experience
-- 💼  Former Software Development Engineer @ Broadridge Financial Solutions
-- 🤖  Currently exploring Artificial Intelligence
-- 👀  Interested in SWE / AI Engineer / ML roles
-- 📍  Tempe, AZ | Open to Relocate
-- 🍥  Anime enthusiast
+<table>
+<tr>
+<td width="65%" valign="top">
+
+- 🎓 MS CS @ Arizona State University  
+- 💻 Software Engineer with 1.5 years of experience  
+- 💼 Former Software Development Engineer @ Broadridge Financial Solutions  
+- 🤖 Currently exploring Artificial Intelligence  
+- 👀 Interested in SWE / AI Engineer / ML roles  
+- 📍 Tempe, AZ | Open to Relocate  
+- 🍥 Anime enthusiast | One Piece fan 👒❤️🏴‍☠️  
+
+</td>
+<td width="35%" align="right" valign="middle">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVrNTk1M3pleGh2cWJoZWo4c3oyZHV2cHh3ODA2cmxxbHR2c3JseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" width="200"/>
+
+</td>
+</tr>
+</table>
+
+---
 
 
 ## 🛠️ Tech Stack
