@@ -2,8 +2,8 @@
 
 <img align="right"
      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTliOGkzNG5qenJtb2IzbndhYnJhbHhuMjJiOXF0MzluM2lkaXoyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JlJJU8Rd2QP4qxjNBc/giphy.gif"
-     width="180"
-     style="margin-top:70px; margin-left:30px;" />
+     width="260"
+     style="margin:0 0 10px 30px;" />
 
 ---
 
