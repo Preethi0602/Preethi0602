@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Preethi Kotturu</h1>
 
+<img align="right" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Developer.gif" width="260" style="margin:0 0 10px 30px;" />
+
+
 ---
 
 - 🎓  MS CS student at Arizona State University
