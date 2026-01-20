@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preethi Kotturu</h1>
 
-<img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/Developer.gif" width="280" style="margin:0 0 10px 30px;" />
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" style="margin:0 0 10px 30px;" />
+
 
 
 
