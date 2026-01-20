@@ -2,7 +2,7 @@
 
 ---
 
-<table>
+<table cellspacing="0" cellpadding="0" border="0">
 <tr>
 <td width="65%" valign="top">
 
@@ -15,9 +15,12 @@
 - 🍥 Anime enthusiast  
 
 </td>
+
 <td width="35%" align="right" valign="middle">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVrNTk1M3pleGh2cWJoZWo4c3oyZHV2cHh3ODA2cmxxbHR2c3JseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" width="200"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVrNTk1M3pleGh2cWJoZWo4c3oyZHV2cHh3ODA2cmxxbHR2c3JseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif"
+     width="200"
+     alt="Girl coding animation" />
 
 </td>
 </tr>
