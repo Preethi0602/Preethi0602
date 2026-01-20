@@ -14,7 +14,7 @@
 - 🤖  Currently exploring Artificial Intelligence
 - 👀  Interested in SWE / AI Engineer / ML roles
 - 📍  Tempe, AZ | Open to Relocate
-- 🍥  Anime enthusiast | One Piece fan 🏴‍☠️
+- 🍥  Anime enthusiast
 
 
 ## 🛠️ Tech Stack
@@ -43,13 +43,13 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/preethik02">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:pkotturu@asu.edu">
+  <a href="mailto:kotturupreethi@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Preethi0602">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
