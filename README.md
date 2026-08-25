@@ -8,11 +8,11 @@
 ---
 
 - 🎓 MS CS @ Arizona State University  
-- 💻 Software Engineer with 4 years of experience  
+- 💻 Software Engineer with 3+ years of experience  
 - 💼 Former Software Development Engineer @ Broadridge Financial Solutions  
 - 🤖 Currently exploring Artificial Intelligence  
 - 👀 Interested in SWE / AI Engineer / ML roles  
-- 📍 Tempe, AZ | Open to Relocate  
+- 📍 Houston| TX | Open to Relocate  
 - 🍥 Anime enthusiast 
 
 ---
@@ -23,7 +23,7 @@
 
 ### 💻 Programming & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,react,nodejs,spring" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,react,nodejs,spring,typescript,reactjs" />
 </p>
 
 ### ☁️ Cloud & DevOps
