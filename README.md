@@ -8,7 +8,7 @@
 ---
 
 - 🎓 MS CS @ Arizona State University  
-- 💻 Software Engineer with 1.5 years of experience  
+- 💻 Software Engineer with 4 years of experience  
 - 💼 Former Software Development Engineer @ Broadridge Financial Solutions  
 - 🤖 Currently exploring Artificial Intelligence  
 - 👀 Interested in SWE / AI Engineer / ML roles  
